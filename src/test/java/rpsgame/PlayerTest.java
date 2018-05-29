@@ -12,6 +12,7 @@ import rpsgame.player.Player;
 import rpsgame.player.PlayerA;
 import rpsgame.player.PlayerB;
 
+
 public class PlayerTest {
 	private static final int PLAYER_CHOICE_COUNT = 1000;
 
