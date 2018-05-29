@@ -1,0 +1,10 @@
+rpsgame/engine/GamePerformer.class
+rpsgame/engine/Choice.class
+rpsgame/player/PlayerA.class
+rpsgame/engine/RoundPerformer.class
+rpsgame/engine/ChoiceComparator.class
+rpsgame/engine/GameResultDescriber.class
+rpsgame/player/PlayerB.class
+rpsgame/player/Player.class
+rpsgame/RPSGame.class
+rpsgame/engine/GameResult.class
